@@ -1,0 +1,19 @@
+todo.txt
+__pycache__
+
+# Remove these once theyre implemented
+Other Series/Hypergeometric Inversions/Series 1
+Other Series/Hypergeometric Inversions/Series 1/series_1.py
+Madhava Series/gitignored_new_series/
+Fibonacci Numbers/Series 2/
+
+# Remove these once theyre fixed
+Factorials/Double factorial/Series 3/
+
+
+# Added by cargo
+
+/target
+src
+Cargo.lock
+Cargo.toml
